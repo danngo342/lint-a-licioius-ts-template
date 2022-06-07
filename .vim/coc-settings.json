@@ -1,0 +1,6 @@
+{
+        "eslint.validate": ["typescript"],
+        "eslint.autoFixOnSave": true,
+        "eslint.format.enable": true
+}
+
