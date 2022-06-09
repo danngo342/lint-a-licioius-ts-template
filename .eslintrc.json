@@ -30,6 +30,7 @@
                 ],
                 "eslint-comments/disable-enable-pair": ["error", { "allowWholeFile": true}],
                 "no-console": "error",
+                "arrow-body-style": ["error", "as-needed"],
                 "import/no-anonymous-default-export": ["error", {
                         "allowArray": false,
                         "allowArrowFunction": false,

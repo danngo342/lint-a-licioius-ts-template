@@ -1,3 +1,5 @@
-export default function Comp() {
-  return <h1>Hello world!!!</h1>
-}
+import { Component } from 'solid-js'
+
+const Comp: Component = () => <h1>Hello world!!!</h1>
+
+export default Comp
