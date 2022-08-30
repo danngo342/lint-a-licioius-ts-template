@@ -1,4 +1,4 @@
 {
   "*.{ts,tsx}": ["tsc --skipLibCheck --noEmit", "eslint --fix"],
-  "*.{json}": ["prettier --write", "eslint --fix"]
+  "*.json": ["prettier --write", "eslint --fix"]
 }
