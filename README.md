@@ -1,5 +1,3 @@
-## Designed by Olive Leaf:  https://www.figma.com/community/file/1109631311573701319
-
 ## Usage
 
 Those templates dependencies are maintained via [pnpm](https://pnpm.io) via `pnpm up -Lri`.
