@@ -1,9 +1,9 @@
 {
-  "extends": "./tsconfig.base.json",
+  "extends": "./tsconfig.base",
   "compilerOptions": {
-    "types": ["vite/client"],
-    "noEmit": true
+    "jsx": "preserve",
+    "jsxImportSource": "solid-js"
   },
-  "include": ["src", "*.json", ".eslintrc.json"],
+  "include": ["src/**/*", "*.json", ".eslintrc.json"],
   "exclude": ["node_modules"]
 }
